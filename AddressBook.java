@@ -11,3 +11,10 @@ public class AddressBook {
 		friends = new Contact[10];
 		numfriends = 0;
     }
+
+//create a method to add a a contact that's passed as para
+	public void addContact(Contact c) {
+		friends[numfriends] = c;
+		numFriends++;
+	}
+	
