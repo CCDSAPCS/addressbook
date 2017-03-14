@@ -12,9 +12,18 @@ public class AddressBook {
 		numfriends = 0;
     }
 
+	numfriends = 0;
+    }
+
 //create a method to add a a contact that's passed as para
 	public void addContact(Contact c) {
 		friends[numfriends] = c;
 		numFriends++;
 	}
+
+// print infor on all contacts
+	public void printContacts() {
+		for (Contact cc: AddressBook)
+			friends[cc].printContact();
+
 	
