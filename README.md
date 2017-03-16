@@ -2,17 +2,17 @@
 
 | Part 1 |   Build out the address class |
 | --------  |  ---------------------------- |
-| <ul><li>* [ ] </li></ul> |  From class you should already have a stub of a file with the following structure |
-| <ul><li>* [ ] </li></ul> |   import statements |
-| <ul><li>* [ ] </li></ul> |  class header  |
-| <ul><li>* [ ] </li></ul> |  field declarations for friends and numFriends  |
+| <ul><li>* [X] </li></ul> |  From class you should already have a stub of a file with the following structure |
+| <ul><li>* [X] </li></ul> |   import statements |
+| <ul><li>* [X] </li></ul> |  class header  |
+| <ul><li>* [X] </li></ul> |  field declarations for friends and numFriends  |
 
 | Also                     |   To Do: |
 | --------  |  ---------------------------- |
-| <ul><li>* [ ] </li></ul> | Constructor for AddressBook of 10 friends |
-| <ul><li>* [ ] </li></ul> |   Add contact method |
-| <ul><li>* [ ] </li></ul> |  printContacts Method  |
-| <ul><li>* [ ] </li></ul> |    |
+| <ul><li>* [X] </li></ul> | Constructor for AddressBook of 10 friends |
+| <ul><li>* [X] </li></ul> |   Add contact method |
+| <ul><li>* [X] </li></ul> |  printContacts Method  |
+| <ul><li>* [X] </li></ul> |    |
 
 |                      |   Now - the following steps will help you build out the rest of the address class |
 | ----  |  ---------------------------- |
