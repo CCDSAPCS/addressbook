@@ -1,9 +1,9 @@
-1. Build out the address class.  
+* [ ] Part 1 -  Build out the address class.  
 From class you should already have a stub of a file with the following structure:
 
---2 import statements
---class header
---field declarations for friends and numFriends
+*[ ] import statements
+*[ ] class header
+*[ ] field declarations for friends and numFriends
 
 Also,
 --Constructor for AddressBook of 10 friends
