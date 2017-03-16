@@ -2,13 +2,18 @@
 From class you should already have a stub of a file with the following structure:
 
 *[ ] import statements
+
 *[ ] class header
+
 *[ ] field declarations for friends and numFriends
 
+
 Also,
---Constructor for AddressBook of 10 friends
---Add contact method
---PrintCOntacts Method
+*[ ] Constructor for AddressBook of 10 friends
+
+*[ ] Add contact method
+
+*[ ] PrintCOntacts Method
 
 Now - the following steps will help you build out the rest of the address class.
 
